@@ -26,7 +26,7 @@ The project is a Rest API that implements guestbook functionality.
 ## Installation Guide
 * Clone the repository
 ```sh
-git clone 
+git clone https://github.com/Pavel2906/ns-test.git
 ```
 
 * Move into the ns-test directory:
@@ -42,9 +42,11 @@ cd ~/ns-test
 The API can now be accessed at http://localhost:8085/api
 
 ## Usage
+#### Admin Credentials: email - admin@admin.com, password - admin123
+
 * Api Endpoints
 
-The API can now be accessed at http://localhost:8084/api
+The API can now be accessed at http://localhost:8085
 
 | HTTP Verbs | Endpoints            | Action                                                                                            |
 |------------|----------------------|---------------------------------------------------------------------------------------------------|
